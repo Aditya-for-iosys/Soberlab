@@ -1319,7 +1319,8 @@ h1 {
   line-height: 1.9;
   letter-spacing: 0.3px;
   text-align: center;
-  padding-right: 33px;
+  padding-right: 0px;
+  margin: 0 auto;
 }
 h1 > .family {
   font-size: 20px;
