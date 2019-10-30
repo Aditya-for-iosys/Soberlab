@@ -261,7 +261,7 @@ h1 > .family {
   background-color: #2b4765;
   color: white;
   border-radius: 50%;
-  padding: 0px 7px 0px 7px;
+  padding: 1px 7px 1px 7px;
 }
 .list_2 {
   width: 451px;
@@ -282,7 +282,7 @@ h1 > .family {
   color: #9ef6e5;
   background-color: #ffffff;
   border-radius: 50%;
-  padding: 0px 7px 0px 7px;
+  padding: 1px 7px 2px 7px;
 }
 .list_3 {
   width: 451px;
@@ -303,7 +303,7 @@ h1 > .family {
   color: #9ef6e5;
   background-color: #ffffff;
   border-radius: 50%;
-  padding: 0px 7px 0px 7px;
+  padding: 1px 7px 2px 7px;
 }
 .list_4 {
   width: 451px;
@@ -324,7 +324,7 @@ h1 > .family {
   color: #9ef6e5;
   background-color: #ffffff;
   border-radius: 50%;
-  padding: 0px 7px 0px 7px;
+  padding: 0px 8px 2px 7px;
 }
 
 .jennifer {
